@@ -13,7 +13,7 @@
 i am a Full-Stack Developer with a strong interest in web development and backend systems. Skilled in building and
 deploying full-stack applications using React.js, Node.js, Express.js, and MongoDB
 
-- 🌐 Check out my portfolio: [gaurav1-portfolio.netlify.app/]((https://gaurav-jaiswal012.vercel.app/))
+- 🌐 Check out my portfolio: [https://gaurav-jaiswal012.vercel.app/]
 
 ## 🛠️ Tech Stack
 
